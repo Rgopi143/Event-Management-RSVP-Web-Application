@@ -1,4 +1,4 @@
-
+z
 
 # 🎉 EventSphere - Event Management & RSVP Web Application
 
@@ -8,7 +8,7 @@ Welcome to *EventSphere, a full-stack web application that allows users to creat
 
 ## 🌐 Live Demo
 
-🔗 [Frontend (Netlify)][((https://event-management-and-rsvp-web-apk.netlify.app/))]  
+🔗[Frontend (Netlify)](https://event-management-and-rsvp-web-apk.netlify.app/)   
 🔗 [Backend (Render)](https://youreventapp-api.onrender.com)  
 📹 [Demo Video Walkthrough](https://your-demo-video-link.com)
 
