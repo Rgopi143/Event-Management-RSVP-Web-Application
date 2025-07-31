@@ -61,17 +61,9 @@ event-management-app/ │ ├── client/       # React Frontend │   ├─�
 
 ## 🛠 Installation & Setup
 
-### 🖥 Backend Setup
-
-```bash
-cd server
-npm install
-# Set up PostgreSQL DB and .env variables
-npm start
-
 🌐 Frontend Setup
 
-cd client
+cd project
 npm install
 npm run dev
 
@@ -106,8 +98,8 @@ A 5-minute walkthrough is available here:
 📧 Contact
 
 Created by: [R. Gopinath Reddy]
-📩 Email: your.rgopinathreddyreddyvati143@gmail.com
-🔗 GitHub: github.com/yourusername
+📩 Email: rgopinathreddyreddyvati143@gmail.com
+🔗 GitHub: github.com/Rgopi
 
 
 ---
