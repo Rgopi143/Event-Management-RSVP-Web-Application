@@ -109,10 +109,3 @@ Created by: [R. Gopinath Reddy]
 
 
 ---
-
-Let me know if you'd like it:
-- Tailored to your name/GitHub
-- Downloaded as a .md file
-- Converted into a PDF
-
-Or if you want help writing the actual *demo script* or setting up deployment.
