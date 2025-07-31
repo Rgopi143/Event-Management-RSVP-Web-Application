@@ -1,8 +1,4 @@
-# Event-Management-RSVP-Web-Application
-Here's a professional and complete README.md file for your Event Management & RSVP Web Application (IBI Internship Task):
 
-
----
 
 # 🎉 EventSphere - Event Management & RSVP Web Application
 
